@@ -1,0 +1,9 @@
+chromadb
+PyPDF2
+sentence-transformers
+torch
+tqdm
+scikit-learn
+openai
+python-dotenv
+transformers
